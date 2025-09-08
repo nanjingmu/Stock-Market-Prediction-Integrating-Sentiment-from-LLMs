@@ -1,6 +1,6 @@
 # Stock Market Prediction Integrating LLM‑Generated Sentiment
 
-This repository contains a reproducible template for the MSc Data Science extended research project described in your report.  It follows a modular layout and includes a dedicated **data_processor** folder inspired by the structure found in the referenced GitHub repository.  The goal of this project is to explore whether adding sentiment extracted from news using large language models (LLMs) can improve stock price prediction accuracy.
+This repository contains a reproducible template for the MSc Data Science extended research project described report.  It follows a modular layout and includes a dedicated **data_processor** folder inspired by the structure found in the referenced GitHub repository.  The goal of this project is to explore whether adding sentiment extracted from news using large language models (LLMs) can improve stock price prediction accuracy.
 
 ## Repository Structure
 
